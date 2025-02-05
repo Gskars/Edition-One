@@ -1,8 +1,8 @@
 # ✈️ Planning a trip has never been easier! Meet the Travel Itinerary Generator 🌍✨
 
-Say goodbye to hours of research and manual planning! Introducing the **Travel Itinerary Generator**, your smart assistant that creates personalized itineraries in seconds!
+- Say goodbye to hours of research and manual planning! Introducing the **Travel Itinerary Generator**, your smart assistant that creates personalized itineraries in seconds!
 
-With the help of **artificial intelligence**, this project automates travel planning, ensuring a tailor-made itinerary for you.
+- With the help of **artificial intelligence**, this project automates travel planning, ensuring a tailor-made itinerary for you.
 
 ![Image](https://github.com/user-attachments/assets/75b128b0-5499-42db-a6ec-a240cd1f849a)
 
@@ -25,7 +25,15 @@ And that's it! The **Travel Itinerary Generator** creates a detailed itinerary f
 - ✅ **Cost Optimization**: Suggestions within your budget.
 - ✅ **Convenience**: Save time and avoid exhaustive research.
 - ✅ **Multitematic**: From cultural experiences to radical adventures! 🌎
-
+  
+---
+## Problems this project solves:
+- 🕒 **Time-consuming research**: No need to spend hours searching for travel recommendations.
+- 🤯 **Overwhelming information**: Filters out unnecessary details and provides a structured itinerary.
+- 💰 **Budget concerns**: Offers suggestions that fit different financial plans.
+- 🔍 **Lack of local insights**: Recommends unique experiences tailored to your interests.
+- 📅 **Itinerary planning stress**: Organizes daily activities efficiently for a smooth trip.
+---
 ## 💡 Technology
 
 Developed in **Python** with the **Google AI Studio API**.
