@@ -4,6 +4,8 @@ Say goodbye to hours of research and manual planning! Introducing the **Travel I
 
 With the help of **artificial intelligence**, this project automates travel planning, ensuring a tailor-made itinerary for you.
 
+![Image](https://github.com/user-attachments/assets/75b128b0-5499-42db-a6ec-a240cd1f849a)
+
 ## 🌍 How it works?
 
 Simply provide your preferences:
